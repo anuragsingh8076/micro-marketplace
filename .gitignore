@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Env files
+.env
+
+# Expo
+.expo/
+.expo-shared/
+
+# Vite
+dist/
+
+# OS
+.DS_Store

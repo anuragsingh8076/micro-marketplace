@@ -140,15 +140,4 @@ This project is licensed under the MIT License.
 
 Anurag Singh
 🔗 GitHub: https://github.com/anuragsingh8076
-
-✅ How to Add This to GitHub
-
-Create README.md in project root
-
-Paste this content
-
-Run:
-
-git add README.md
-git commit -m "Add project README"
-git push
+
